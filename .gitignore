@@ -1,0 +1,8 @@
+tob-config.json
+launcher.bat
+.env
+.vscode
+
+*.exe
+*.bin
+*.osx
